@@ -1,0 +1,13 @@
+body{
+  background-color : lightblue;
+}
+h1{
+  color : blue;
+  text-align : center;
+}
+canvas {
+  width: 250pt;
+  margin: 20pt;
+  border: 2pt solid black;
+  background-color: blue;
+}
